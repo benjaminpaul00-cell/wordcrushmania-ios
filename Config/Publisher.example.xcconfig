@@ -1,0 +1,8 @@
+// Copy to Publisher.xcconfig. These IDs must belong to an iOS app, not Android.
+ADMOB_APP_ID = ca-app-pub-YOUR_PUBLISHER~YOUR_IOS_APP
+ADMOB_BANNER_ID = ca-app-pub-YOUR_PUBLISHER/YOUR_BANNER
+ADMOB_INTERSTITIAL_ID = ca-app-pub-YOUR_PUBLISHER/YOUR_INTERSTITIAL
+ADMOB_REWARDED_ID = ca-app-pub-YOUR_PUBLISHER/YOUR_REWARDED
+// Escape the URL slashes so xcconfig does not treat them as a comment.
+PRIVACY_POLICY_URL = https:/$()/your-domain.example/privacy
+DEVELOPMENT_TEAM = YOUR_APPLE_TEAM

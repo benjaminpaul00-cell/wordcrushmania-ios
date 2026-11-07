@@ -1,0 +1,7 @@
+// Publisher configuration is intentionally local. Ads stay disabled without real iOS IDs.
+ADMOB_APP_ID = ca-app-pub-3940256099942544~1458002511
+ADMOB_BANNER_ID =
+ADMOB_INTERSTITIAL_ID =
+ADMOB_REWARDED_ID =
+PRIVACY_POLICY_URL =
+#include? "Publisher.xcconfig"

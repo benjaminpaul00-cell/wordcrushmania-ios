@@ -1,0 +1,15 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+*.xcresult/
+*.xcarchive/
+*.ipa
+xcuserdata/
+*.xcuserstate
+Config/Publisher.xcconfig
+*.p12
+*.mobileprovision
+artifacts/
+__pycache__/
+WordCrushMania.xcodeproj/
